@@ -4,7 +4,7 @@
 A simple and elegant web application that fetches random quotes and displays them dynamically. Users can also share quotes on Twitter with a single click.
 
 ## 🚀 Live Demo
-(https://new-quote-generator-172.netlify.app/) 
+ click here to visit hosted link -  (https://new-quote-generator-172.netlify.app/) 
 
 ## 📌 Features
 ✅ Fetches a random quote from the [Quotable API](https://api.quotable.io)  
